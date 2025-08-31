@@ -26,7 +26,6 @@
   <a href="https://instagram.com/zaa_andr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.youtube.com/c/KazemirZane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Kazemir Zane" height="30" width="40" /></a>
 </p>
 
 ---
@@ -48,9 +47,8 @@
   <summary>► My stats in Github</summary>
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kazemir-Zaner&show_icons=true&locale=id&theme=dracula&hide_border=true" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Kazemir-Zane&show_icons=true&locale=id&theme=dracula&hide_border=true" alt="GitHub Stats"/>
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazemir-Zane&layout=compact&locale=id&theme=dracula&hide_border=true" alt="Top Languages"/>
   </p>
   
 </details>

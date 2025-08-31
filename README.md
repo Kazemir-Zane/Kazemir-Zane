@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  <a href="https://discord.com/users/1089547617521913987>
+  <a href="https://discord.com/users/1089547617521913987">
     <img src="https://api.lanyard.rest/v1/users/1089547617521913987.png" />
   </a>
 </p>

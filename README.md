@@ -15,7 +15,7 @@
 
 <p align="left">
   <a href="https://discord.com/users/1089547617521913987">
-    <img src="https://discord.c99.nl/widget/theme-1/1089547617521913987.png" />
+    <img src="https://discord.c99.nl/widget/theme-2/1089547617521913987.png" />
   </a>
 </p>
 

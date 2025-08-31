@@ -10,7 +10,7 @@
 </div>
 
 <p align="left">
-  <i>Cuma manusia biasa yang suka ngegame dan anime</i>
+  <i>Cuma manusia biasa yang suka game dan anime</i>
 </p>
 
 <p align="left">
